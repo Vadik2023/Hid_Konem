@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hid_Konem", "Hid_Konem.csproj", "{27DC4AB4-362B-4661-BFEF-8C442C7F5ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27DC4AB4-362B-4661-BFEF-8C442C7F5ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27DC4AB4-362B-4661-BFEF-8C442C7F5ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27DC4AB4-362B-4661-BFEF-8C442C7F5ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27DC4AB4-362B-4661-BFEF-8C442C7F5ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {724EC9DB-C7EA-4EC8-8540-3A5F38500255}
+	EndGlobalSection
+EndGlobal
